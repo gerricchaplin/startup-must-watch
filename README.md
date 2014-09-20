@@ -8,6 +8,7 @@ Submit pull requests or open issues if you would like to include something.
 
 # To Sort
 
+* [Steve Jobs: Secrets of Life](http://youtu.be/kYfNvmF0Bqw) [1:42]
 * [Starting Small with Eric Ries // Now I Know](http://youtu.be/wFzkYUt_cNg) [1:46]
 * [Small Business vs. Startup with Steve Blank // Now I Know](http://youtu.be/CIA9ikESXYI) [2:37]
 * [Failing & Doing with Dan Levine // Now I Know ](http://youtu.be/m1G9wydwW_8) [2:03]
