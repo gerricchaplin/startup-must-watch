@@ -1,10 +1,16 @@
 startup-must-watch
 ==================
 This is a list of must-watch videos devoted to Entrepreneurship and Startups. 
-Submit pull requests or open issues if you would like to include something.
+Submit pull requests or open issues if you would like to contribute.
 
-# Motivation
-
+YouTube Channels:
+* [Y Combinator | How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
+* [Startup Grind](https://www.youtube.com/user/StartupGrind)
+* [KauffmanFoundation](https://www.youtube.com/user/KauffmanFoundation)
+* [Startup Grind Local](https://www.youtube.com/user/StartupGrindLocal)
+* [Harvard Innovation Lab](https://www.youtube.com/user/Harvardilab)
+* [Stanford Business](https://www.youtube.com/user/stanfordbusiness)
+* [Eric Ries | The Lean Startup](https://www.youtube.com/user/StartupLessonsLearne)
 
 # To Sort
 
@@ -22,7 +28,9 @@ Submit pull requests or open issues if you would like to include something.
 * [The Psychology of Self-Motivation: Scott Geller at TEDxVirginiaTech](http://youtu.be/7sxpKhIbr0E) [15:53]
 * [Harvard i-lab | "Mastering the VC Game: How to Raise Your First Round of Capital" with Jeff Bussgang](http://youtu.be/aNfB4sBBwEc) [1:23:21]
 * [Harvard i-lab | Startup Secrets: Turning Products into Companies](http://youtu.be/092JQrye9IM) [2:04:58]
-* [Y Combinator | How to Start a Startup Channel](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
 
 Other Links:
-[steveblank.com](http://steveblank.com/)
+[Steve Blank](http://steveblank.com/)
+[The Lean Startup](http://theleanstartup.com/)
+
+
