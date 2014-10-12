@@ -22,6 +22,7 @@ Submit pull requests or open issues if you would like to include something.
 * [The Psychology of Self-Motivation: Scott Geller at TEDxVirginiaTech](http://youtu.be/7sxpKhIbr0E) [15:53]
 * [Harvard i-lab | "Mastering the VC Game: How to Raise Your First Round of Capital" with Jeff Bussgang](http://youtu.be/aNfB4sBBwEc) [1:23:21]
 * [Harvard i-lab | Startup Secrets: Turning Products into Companies](http://youtu.be/092JQrye9IM) [2:04:58]
+* [Y Combinator | How to Start a Startup Channel](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
 
 Other Links:
 [steveblank.com](http://steveblank.com/)
